@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/yuanekb.github.io/static/css/main.9a6d4abb.chunk.css",
+    "main.js": "/yuanekb.github.io/static/js/main.baf0d177.chunk.js",
+    "main.js.map": "/yuanekb.github.io/static/js/main.baf0d177.chunk.js.map",
+    "runtime-main.js": "/yuanekb.github.io/static/js/runtime-main.cf090e3d.js",
+    "runtime-main.js.map": "/yuanekb.github.io/static/js/runtime-main.cf090e3d.js.map",
+    "static/css/2.7fc9bc2b.chunk.css": "/yuanekb.github.io/static/css/2.7fc9bc2b.chunk.css",
+    "static/js/2.ef5d573e.chunk.js": "/yuanekb.github.io/static/js/2.ef5d573e.chunk.js",
+    "static/js/2.ef5d573e.chunk.js.map": "/yuanekb.github.io/static/js/2.ef5d573e.chunk.js.map",
+    "index.html": "/yuanekb.github.io/index.html",
+    "static/css/2.7fc9bc2b.chunk.css.map": "/yuanekb.github.io/static/css/2.7fc9bc2b.chunk.css.map",
+    "static/css/main.9a6d4abb.chunk.css.map": "/yuanekb.github.io/static/css/main.9a6d4abb.chunk.css.map",
+    "static/js/2.ef5d573e.chunk.js.LICENSE.txt": "/yuanekb.github.io/static/js/2.ef5d573e.chunk.js.LICENSE.txt",
+    "static/media/images.css": "/yuanekb.github.io/static/media/profile.590a439b.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cf090e3d.js",
+    "static/css/2.7fc9bc2b.chunk.css",
+    "static/js/2.ef5d573e.chunk.js",
+    "static/css/main.9a6d4abb.chunk.css",
+    "static/js/main.baf0d177.chunk.js"
+  ]
+}
