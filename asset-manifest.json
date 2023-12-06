@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/yuanekb.github.io/static/css/main.9a6d4abb.chunk.css",
-    "main.js": "/yuanekb.github.io/static/js/main.baf0d177.chunk.js",
-    "main.js.map": "/yuanekb.github.io/static/js/main.baf0d177.chunk.js.map",
-    "runtime-main.js": "/yuanekb.github.io/static/js/runtime-main.cf090e3d.js",
-    "runtime-main.js.map": "/yuanekb.github.io/static/js/runtime-main.cf090e3d.js.map",
-    "static/css/2.7fc9bc2b.chunk.css": "/yuanekb.github.io/static/css/2.7fc9bc2b.chunk.css",
-    "static/js/2.ef5d573e.chunk.js": "/yuanekb.github.io/static/js/2.ef5d573e.chunk.js",
-    "static/js/2.ef5d573e.chunk.js.map": "/yuanekb.github.io/static/js/2.ef5d573e.chunk.js.map",
-    "index.html": "/yuanekb.github.io/index.html",
-    "static/css/2.7fc9bc2b.chunk.css.map": "/yuanekb.github.io/static/css/2.7fc9bc2b.chunk.css.map",
-    "static/css/main.9a6d4abb.chunk.css.map": "/yuanekb.github.io/static/css/main.9a6d4abb.chunk.css.map",
-    "static/js/2.ef5d573e.chunk.js.LICENSE.txt": "/yuanekb.github.io/static/js/2.ef5d573e.chunk.js.LICENSE.txt",
-    "static/media/images.css": "/yuanekb.github.io/static/media/profile.590a439b.PNG"
+    "main.css": "/static/css/main.df7781f0.chunk.css",
+    "main.js": "/static/js/main.baf0d177.chunk.js",
+    "main.js.map": "/static/js/main.baf0d177.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f905ab6c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f905ab6c.js.map",
+    "static/css/2.7fc9bc2b.chunk.css": "/static/css/2.7fc9bc2b.chunk.css",
+    "static/js/2.ef5d573e.chunk.js": "/static/js/2.ef5d573e.chunk.js",
+    "static/js/2.ef5d573e.chunk.js.map": "/static/js/2.ef5d573e.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.7fc9bc2b.chunk.css.map": "/static/css/2.7fc9bc2b.chunk.css.map",
+    "static/css/main.df7781f0.chunk.css.map": "/static/css/main.df7781f0.chunk.css.map",
+    "static/js/2.ef5d573e.chunk.js.LICENSE.txt": "/static/js/2.ef5d573e.chunk.js.LICENSE.txt",
+    "static/media/images.css": "/static/media/profile.590a439b.PNG"
   },
   "entrypoints": [
-    "static/js/runtime-main.cf090e3d.js",
+    "static/js/runtime-main.f905ab6c.js",
     "static/css/2.7fc9bc2b.chunk.css",
     "static/js/2.ef5d573e.chunk.js",
-    "static/css/main.9a6d4abb.chunk.css",
+    "static/css/main.df7781f0.chunk.css",
     "static/js/main.baf0d177.chunk.js"
   ]
 }
