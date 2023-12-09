@@ -9,7 +9,7 @@
     cursor: none;    
 }
 .project2{
-    background-image: url('./8puzzle2.png');
+    background-image: url('./MyFriendBook.png');
     cursor: none;
 }
 .project3{
@@ -29,8 +29,8 @@
     cursor: none;
 }
 /* Miscelaneous Activities photo */
-.misc1{
-    background-image: url('https://via.placeholder.com/400x600.png?text=Miscellaneous+one');
+.microcossmissue{
+    background-image: url('./MicroCOSSm\ Issue\ 2021.png');
     cursor: none;
 }
 .misc2{
