@@ -86,67 +86,67 @@ const projects = [
     id: "project1",
     name: "alertoSOS",
     skills: ["Flutter, Firebase, GIS"],
-    url: "https://github.com/kaustubhai",
+    // url: "https://github.com/kaustubhai",
   },
   {
     // Add image in './styles/images.css' in #project2
     id: "project2",
     name: "myFriendBook",
     skills: ["Flutter, Firestore, Database, APIs"],
-    url: "https://github.com/kaustubhai",
+    // url: "https://github.com/kaustubhai",
   },
   {
     // Add image in './styles/images.css' in #project3
     id: "project3",
     name: "8-Puzzle solver",
     skills: ["Python, AI"],
-    url: "https://github.com/kaustubhai",
+    // url: "https://github.com/kaustubhai",
   },
-  {
-    // Add image in './styles/images.css' in #project4
-    id: "project4",
-    name: "Project 4",
-    skills: ["HTML, CSS, JS"],
-    url: "https://github.com/kaustubhai",
-  },
-  {
-    // Add image in './styles/images.css' in #project5
-    id: "project5",
-    name: "Project 5",
-    skills: ["HTML, CSS, JS"],
-    url: "https://github.com/kaustubhai",
-  },
-  {
-    // Add image in './styles/images.css' in #project6
-    id: "project6",
-    name: "Project 6",
-    skills: ["HTML, CSS, JS"],
-    url: "https://github.com/kaustubhai",
-  },
+  // {
+  //   // Add image in './styles/images.css' in #project4
+  //   id: "project4",
+  //   name: "Project 4",
+  //   skills: ["HTML, CSS, JS"],
+  //   url: "https://github.com/kaustubhai",
+  // },
+  // {
+  //   // Add image in './styles/images.css' in #project5
+  //   id: "project5",
+  //   name: "Project 5",
+  //   skills: ["HTML, CSS, JS"],
+  //   url: "https://github.com/kaustubhai",
+  // },
+  // {
+  //   // Add image in './styles/images.css' in #project6
+  //   id: "project6",
+  //   name: "Project 6",
+  //   skills: ["HTML, CSS, JS"],
+  //   url: "https://github.com/kaustubhai",
+  // },
 ];
 // Edit your Miscellaneous Activities, its name and the url.
 // You can omit freely anything if you dont have it
 // To Add a Activity, copy any one below and paste it after the last comma and increment the id's Miscellaneous number
-const section4Title = "Miscellaneous";
+const section4Title = "Other projects";
 const miscellaneous = [
   {
     // Add image in './styles/images.css' in #misc1
-    id: "misc1",
-    name: "Miscellaneous 1",
-    url: "https://github.com/kaustubhai",
+    id: "microcossmissue",
+    name: "MicroCOSSm Newsletter 2022 (UPLB Computer Science Society)",
+    // url: "https://github.com/kaustubhai",
   },
-  {
-    // Add image in './styles/images.css' in #misc2
-    id: "misc2",
-    name: "Miscellaneous 2",
-    url: "https://github.com/kaustubhai",
-  },
-  {
-    // Add image in './styles/images.css' in #misc3
-    id: "misc3",
-    name: "Miscellaneous 3",
-    url: "https://github.com/kaustubhai",
-  },
+  // {
+  //   // Add image in './styles/images.css' in #misc2
+  //   id: "misc2",
+  //   name: "Miscellaneous 2",
+  //   url: "https://github.com/kaustubhai",
+  // },
+  // {
+  //   // Add image in './styles/images.css' in #misc3
+  //   id: "misc3",
+  //   name: "Miscellaneous 3",
+  //   url: "https://github.com/kaustubhai",
+  // },
 ];
 // Contact form text, and Formspree link(to send a submit contact through their API as in contact.js)
 // To get your own jotform link, go to https://formspree.io/
