@@ -79,7 +79,7 @@ const skillsBar = [
 // Edit your projects, its name, your skills used to make it, and the url.
 // You can omit freely anything if you dont have it
 // To Add a Project, copy any one below and paste it after the last comma and increment the id's project number
-const section3Title = "Past Projects";
+const section3Title = "Projects";
 const projects = [
   {
     // Add image in './styles/images.css' in #project1
@@ -133,6 +133,7 @@ const miscellaneous = [
     // Add image in './styles/images.css' in #misc1
     id: "microcossmissue",
     name: "MicroCOSSm Newsletter 2022 (UPLB Computer Science Society)",
+    skills: ["Spearheaded a committee overseeing the organization’s media and publicity initiatives, including the semesteral newsletter. Served as the committee's Editor-In-Chief."],
     // url: "https://github.com/kaustubhai",
   },
   // {
