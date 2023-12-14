@@ -20,7 +20,7 @@ const background = {
 const section2title = "About Me";
 const about = {
   paragraph:
-    "A junior software developer specializing in automation and DevOps-related duties. Skilled in a numerous programming languages, frameworks, and platforms including Python, Node.js, Google Cloud, Azure, PowerShell, MERN stack, as well as mobile application development using Flutter and Firebase.",
+    "An aspiring software developer with strong interest in automation, DevOps, AI, and cybersecurity. Skilled in a numerous programming languages, frameworks, and platforms including Python, Node.js, Google Cloud, Azure, PowerShell, MERN stack, as well as mobile application development using Flutter and Firebase.",
 };
 // Edit your skill and the percentage you know about it
 // To Add a skill, copy any one below and paste it after the last comma
