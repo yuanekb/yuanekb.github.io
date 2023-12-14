@@ -102,13 +102,13 @@ const projects = [
     skills: ["Python, AI"],
     // url: "https://github.com/kaustubhai",
   },
-  // {
-  //   // Add image in './styles/images.css' in #project4
-  //   id: "project4",
-  //   name: "Project 4",
-  //   skills: ["HTML, CSS, JS"],
-  //   url: "https://github.com/kaustubhai",
-  // },
+  {
+    // Add image in './styles/images.css' in #project4
+    id: "project4",
+    name: "Wine classification using K-Means Clustering",
+    skills: ["Python, AI, Excel, Data Analysis"],
+    // url: "https://github.com/kaustubhai",
+  },
   // {
   //   // Add image in './styles/images.css' in #project5
   //   id: "project5",
